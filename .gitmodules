@@ -1,9 +1,9 @@
 [submodule "mpc"]
 	path = mpc
-	url = https://github.com/5721309/mpc
+	url = https://5721309@github.com/5721309/mpc
 [submodule "spdz"]
 	path = spdz
-	url = https://github.com/5721309/spdz
+	url = https://5721309@github.com/5721309/spdz
 [submodule "mpcauth"]
 	path = mpcauth
-	url = https://github.com/5721309/mpcauth
+	url = https://5721309@github.com/5721309/mpcauth
